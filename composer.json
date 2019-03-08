@@ -1,0 +1,12 @@
+{
+    "name": "faysa/php_translate",
+    "type": "project",
+    "authors": [{
+        "name": "Faysal Ahmed",
+        "email": "faysal.ahmed833@gmail.com"
+    }],
+    "require": {
+        "catfan/medoo": "^1.6",
+        "google/cloud-translate": "^1.2"
+    }
+}
